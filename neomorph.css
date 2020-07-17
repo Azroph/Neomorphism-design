@@ -1,0 +1,124 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.ligne1 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex;
+    background: #406072;
+}
+
+.ligne2 {
+    display: flex;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background: #574072;
+}
+
+.square1 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+    background: #406072;
+    box-shadow:  20px 20px 60px #365261, 
+                -20px -20px 60px #4a6e83;
+    margin-top: 0vh;
+
+}
+
+.square2 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+    background: #406072;
+    box-shadow:  20px -20px 60px #365261, 
+                -20px 20px 60px #4a6e83;
+    margin-top: 20vh;
+
+}
+
+.square3 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+    background: #406072;
+    box-shadow:  -20px -20px 60px #365261, 
+                  20px 20px 60px #4a6e83;
+    margin-top: 40vh;
+
+}
+
+.square4 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+    background: #406072;
+    box-shadow:  -20px 20px 60px #365261, 
+                  20px -20px 60px #4a6e83;
+    margin-top: 60vh;
+
+}
+
+.square5 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background: #574072;
+    box-shadow:  -20px 20px 60px #4a3661, 
+                  20px -20px 60px #644a83;
+    margin-top: 60vh;
+
+}
+
+.square6 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background: #574072;
+    box-shadow:  -20px -20px 60px #4a3661, 
+                  20px 20px 60px #644a83;
+    margin-top: 40vh;
+
+}
+
+.square7 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background: #574072;
+    box-shadow:  20px -20px 60px #4a3661, 
+                -20px  20px 60px #644a83;
+    margin-top: 20vh;
+
+}
+
+.square8 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background: #574072;
+    box-shadow:  20px 20px 60px #4a3661, 
+                -20px -20px 60px #644a83;
+    margin-top: 0vh;
+
+}
